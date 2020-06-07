@@ -1,0 +1,1 @@
+export const API_BASE = `http://localhost/developments/QAscent/laravel/formvalidation-backend/public/api/`
